@@ -13,6 +13,10 @@ time experimentation and visualization.
 
 Installation:
 
+git clone https://github.com/anttiluode/Field-Enhanced-Phi.git 
+
+cd field-enhanced-phi
+
 pip install torch transformers gradio plotly numpy mne scipy anyio matplotlib
 
 # Run the Interface:
