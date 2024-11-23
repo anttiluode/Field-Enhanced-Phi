@@ -21,7 +21,7 @@ python app.py
 
 Experiment: Use the Gradio interface to adjust field parameters and observe their effects on the Phi model’s performance and creativity.
 
-Errors at 32x32 so use 16x16
+Errors at 32x32 so use 16x16 for field size
 
 # License:
 
