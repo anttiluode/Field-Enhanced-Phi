@@ -2,6 +2,8 @@
 
 Field-Enhanced Phi is an innovative project that integrates dynamic field layers with transformer-based neural networks, specifically leveraging the Phi-3.5-mini model. By overlaying fractal-like field structures atop traditional neural architectures, this project enhances learning efficiency and fosters creative and non-local information processing. Field-Enhanced Phi achieves up to a 7% improvement in training efficiency and introduces novel mechanisms for creativity and insight generation through field-mediated interactions.
 
+[Watch the video](https://youtu.be/Op3hKPYdmYI)
+
 # Key Features:
 
 Dynamic Field Layers: Implements fractal-like, wave-inspired field layer that interact with transformer hidden states to enhance information flow and learning efficiency.
